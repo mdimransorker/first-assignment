@@ -28,7 +28,7 @@ p {
 	font-size: 18px;
 	line-height: 25px;
     font-family: 'Poppins', sans-serif;
-font-family: 'Yeseva One', cursive;
+
 }
 a{
     text-decoration: none;
@@ -68,7 +68,7 @@ section{
 }
 .banner h1 {
     position: relative;
-    font-family: 'Noto Serif', serif;
+    font-family: 'Yeseva One', cursive;
     padding-left: 4%;
 }
 .banner h1::before {
@@ -82,3 +82,27 @@ section{
     top: 13%;
 }
 /* banner-area section end */
+/* my-mission-area section stat */
+.One-third-width {
+    width: 22%;
+}
+.my-mission-item {
+    padding: 28px;
+    border-radius: 28px;
+    background-color: #edf5f6;
+    margin: 10px;
+}
+.my-mission-item img {
+    width: 50%;
+    margin-bottom: 10px;
+}
+.justify-center{
+    justify-content: center;
+}
+.lite-pink{
+    background-color: #ffeeee;
+}
+.lite-orange{
+    background-color: #fff4d6;
+}
+/* my-mission-area section end */
