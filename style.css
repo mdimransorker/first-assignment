@@ -106,3 +106,24 @@ section{
     background-color: #fff4d6;
 }
 /* my-mission-area section end */
+/* develop-area section start */
+.develop-img, 
+.community-img{
+	width: 30%;
+}
+.develop-img img, 
+.community-img img{
+    width: 100%;
+}
+.develop-content,
+.community-content{
+	width: 46%;
+	margin-left: 4%;
+}
+.community-content{
+    margin: 0%;
+}
+.community-img{
+    margin-left: 4%;
+}
+/* develop-area section end */
