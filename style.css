@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p {
+	font-size: 18px;
+	line-height: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-area {
+	display: flex;
+	align-items: center;
+}
+.half-width {
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
